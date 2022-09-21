@@ -1,2 +1,4 @@
 # Tantros-Mod
-A mindustry Tantros mod (duh) made by Jasmarkelina,Forked by Plastel, aiming to contribute to the original mod as much as possible
+A Mindustry mod that brings tantros to life!
+The mod is nowhere near complete, and [red] campaign stages are broken 
+[white] This mod is currently being developed by three people, have fun!
