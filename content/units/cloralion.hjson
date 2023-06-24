@@ -1,4 +1,5 @@
 type: mech
+name: Anantashesha
 health: 6060
 flying: false
 controller: GroundAI
