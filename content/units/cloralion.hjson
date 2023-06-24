@@ -3,9 +3,9 @@ health: 6060
 flying: false
 controller: GroundAI
 speed: 0.50
-rotateSpeed: 1
-armor: 45
-hitSize: 25
+rotateSpeed: 0.88
+armor: 15
+hitSize: 26
 itemCapacity: 300
 weapons: [
   {
@@ -32,11 +32,11 @@ abilities: [
     },
     {
      type: ShieldArcAbility
-     max: 2000
+     max: 350
      radius: 5
      region: "cloralion-shield"
      cooldown: 480
-     regen: 0.5
+     regen: 5
      whenShooting: false
     },
     {
