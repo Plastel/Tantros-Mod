@@ -50,7 +50,7 @@ weapons: [
    
    speed: 7
    lifetime: 75
-   drag: -0.09
+   drag: 0.0015
    
    homingDelay: 0
    homingRange: 50
