@@ -60,6 +60,7 @@ weapons: [
    trailColor: 5AB9A8
    trailEffect: hitBulletColor
 }
+}
 x: 0
 y: 0
         mirror: false
