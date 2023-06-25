@@ -1,5 +1,5 @@
 name: Felon 
-description: Quickly fires energy orbs at enemy targets.
+description: Quickly fires energy orbs and rockets at enemy targets.
 type: flying
 flying: true
 health: 715
